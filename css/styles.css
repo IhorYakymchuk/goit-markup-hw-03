@@ -117,11 +117,6 @@ img {
   gap: 50px;
 }
 
-/* 
-.header-list .header-item + .header-item {
-  margin-left: 50px;
-} */
-
 .header-link,
 .header-phone,
 .header-mail {
@@ -191,8 +186,7 @@ img {
   color: var(--accent-color);
 }
 
-/* ----------------Hero ----------------------
-- поки що поставив колір бекграунда #2f303a, так як ще нема картинки ----------*/
+/* ----------------Hero ----------------------*/
 
 .hero {
   background-color: var(--hero-footer-bg-color);
@@ -236,7 +230,6 @@ img {
 
 .benefits {
   padding-bottom: 0;
-  /* чомусь паддінги не схлопуються */
 }
 
 .visually-hidden {
