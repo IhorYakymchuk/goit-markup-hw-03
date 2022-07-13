@@ -191,7 +191,7 @@ img {
 .hero {
   background-color: var(--hero-footer-bg-color);
   text-align: center;
-  padding: 200px;
+  padding: 200px 0;
 }
 
 .hero-title {
